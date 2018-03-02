@@ -1,2 +1,3 @@
 name: marti toma, Coffee Drinker
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
